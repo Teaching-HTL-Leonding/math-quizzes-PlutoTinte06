@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Finding_the_Operator\bin\Debug\net7.0\Übung Finding_the_Operator.exe
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Finding_the_Operator\bin\Debug\net7.0\Übung Finding_the_Operator.deps.json
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Finding_the_Operator\bin\Debug\net7.0\Übung Finding_the_Operator.runtimeconfig.json
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Finding_the_Operator\bin\Debug\net7.0\Übung Finding_the_Operator.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Finding_the_Operator\bin\Debug\net7.0\Übung Finding_the_Operator.pdb
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Finding_the_Operator\obj\Debug\net7.0\Übung Finding_the_Operator.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Finding_the_Operator\obj\Debug\net7.0\Übung Finding_the_Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Finding_the_Operator\obj\Debug\net7.0\Übung Finding_the_Operator.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Finding_the_Operator\obj\Debug\net7.0\Übung Finding_the_Operator.AssemblyInfo.cs
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Finding_the_Operator\obj\Debug\net7.0\Übung Finding_the_Operator.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Finding_the_Operator\obj\Debug\net7.0\Übung Finding_the_Operator.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Finding_the_Operator\obj\Debug\net7.0\refint\Übung Finding_the_Operator.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Finding_the_Operator\obj\Debug\net7.0\Übung Finding_the_Operator.pdb
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Finding_the_Operator\obj\Debug\net7.0\Übung Finding_the_Operator.genruntimeconfig.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Finding_the_Operator\obj\Debug\net7.0\ref\Übung Finding_the_Operator.dll

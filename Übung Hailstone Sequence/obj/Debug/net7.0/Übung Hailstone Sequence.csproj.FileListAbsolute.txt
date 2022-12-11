@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Hailstone Sequence\bin\Debug\net7.0\Übung Hailstone Sequence.exe
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Hailstone Sequence\bin\Debug\net7.0\Übung Hailstone Sequence.deps.json
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Hailstone Sequence\bin\Debug\net7.0\Übung Hailstone Sequence.runtimeconfig.json
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Hailstone Sequence\bin\Debug\net7.0\Übung Hailstone Sequence.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Hailstone Sequence\bin\Debug\net7.0\Übung Hailstone Sequence.pdb
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Hailstone Sequence\obj\Debug\net7.0\Übung Hailstone Sequence.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Hailstone Sequence\obj\Debug\net7.0\Übung Hailstone Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Hailstone Sequence\obj\Debug\net7.0\Übung Hailstone Sequence.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Hailstone Sequence\obj\Debug\net7.0\Übung Hailstone Sequence.AssemblyInfo.cs
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Hailstone Sequence\obj\Debug\net7.0\Übung Hailstone Sequence.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Hailstone Sequence\obj\Debug\net7.0\Übung Hailstone Sequence.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Hailstone Sequence\obj\Debug\net7.0\refint\Übung Hailstone Sequence.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Hailstone Sequence\obj\Debug\net7.0\Übung Hailstone Sequence.pdb
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Hailstone Sequence\obj\Debug\net7.0\Übung Hailstone Sequence.genruntimeconfig.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Hailstone Sequence\obj\Debug\net7.0\ref\Übung Hailstone Sequence.dll

@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung FizzBuzz\bin\Debug\net7.0\Übung FizzBuzz.exe
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung FizzBuzz\bin\Debug\net7.0\Übung FizzBuzz.deps.json
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung FizzBuzz\bin\Debug\net7.0\Übung FizzBuzz.runtimeconfig.json
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung FizzBuzz\bin\Debug\net7.0\Übung FizzBuzz.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung FizzBuzz\bin\Debug\net7.0\Übung FizzBuzz.pdb
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung FizzBuzz\obj\Debug\net7.0\Übung FizzBuzz.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung FizzBuzz\obj\Debug\net7.0\Übung FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung FizzBuzz\obj\Debug\net7.0\Übung FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung FizzBuzz\obj\Debug\net7.0\Übung FizzBuzz.AssemblyInfo.cs
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung FizzBuzz\obj\Debug\net7.0\Übung FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung FizzBuzz\obj\Debug\net7.0\Übung FizzBuzz.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung FizzBuzz\obj\Debug\net7.0\refint\Übung FizzBuzz.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung FizzBuzz\obj\Debug\net7.0\Übung FizzBuzz.pdb
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung FizzBuzz\obj\Debug\net7.0\Übung FizzBuzz.genruntimeconfig.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung FizzBuzz\obj\Debug\net7.0\ref\Übung FizzBuzz.dll
