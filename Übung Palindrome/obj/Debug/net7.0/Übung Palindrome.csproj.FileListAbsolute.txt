@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Palindrome\bin\Debug\net7.0\Übung Palindrome.exe
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Palindrome\bin\Debug\net7.0\Übung Palindrome.deps.json
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Palindrome\bin\Debug\net7.0\Übung Palindrome.runtimeconfig.json
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Palindrome\bin\Debug\net7.0\Übung Palindrome.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Palindrome\bin\Debug\net7.0\Übung Palindrome.pdb
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Palindrome\obj\Debug\net7.0\Übung Palindrome.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Palindrome\obj\Debug\net7.0\Übung Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Palindrome\obj\Debug\net7.0\Übung Palindrome.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Palindrome\obj\Debug\net7.0\Übung Palindrome.AssemblyInfo.cs
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Palindrome\obj\Debug\net7.0\Übung Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Palindrome\obj\Debug\net7.0\Übung Palindrome.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Palindrome\obj\Debug\net7.0\refint\Übung Palindrome.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Palindrome\obj\Debug\net7.0\Übung Palindrome.pdb
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Palindrome\obj\Debug\net7.0\Übung Palindrome.genruntimeconfig.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Palindrome\obj\Debug\net7.0\ref\Übung Palindrome.dll
